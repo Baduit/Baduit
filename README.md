@@ -1,16 +1,17 @@
-### Hi there 👋
+# Who am I ?
+I'm a young french developper living in Nantes and working at [Elephant Technologies](https://www.elephant-technologies.fr/).
 
-<!--
-**Baduit/Baduit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My favourite programming langage is C++, well modern C++, because before C++11 a lot of things are really frustrating to do and when you tested C++17 it is hard to use something older. Now I have tasted C++20 I think I will never make any pet project in an older standard because it has so much new usefull features. 
 
-Here are some ideas to get you started:
+Sometimes I also like to make little projects in javascript (with node.js) or python but I'm not as fluent in these langage as in C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also I did some little stuff in C# (with Unity) or in rust but I can't really say I have any experience in these langages.
+
+# My favourite pet projects
+* [Aggreget](https://github.com/Baduit/Aggreget): A C++20 header-only library to achieve non-intrusive compile time reflection on aggregate types. This my favorite because it uses advanced and recent functionnalities of C++ ([concepts](https://en.cppreference.com/w/cpp/language/constraints), [structure binding](https://en.cppreference.com/w/cpp/language/structured_binding), [aggregate initialization](https://en.cppreference.com/w/cpp/language/aggregate_initialization), [type traits](https://en.cppreference.com/w/cpp/header/type_traits) and generic programming) but the code is still short and simple. Also writing this library was pretty straightforward.
+* [ScriptGUIfier](https://github.com/Baduit/ScriptGUIfier): a generator of GUI for scripts, it is written in python. I initially developped it to manage my script on my pet projects and I ended up using it at work because thanks to it, it is easier to use and share my scripts with my colleagues to make our work easier and more productive.
+* [Timer](https://github.com/Baduit/Timer): A little C++ header-only library to manage timers in C++. The standard library has a great way to manage time since C++11 that offers a lot of possibilities but for simple use there is a lot of boiler plate code, this library fix that.
+
+# My articles (in french)
+* [C++: best ways to pass parameters](https://www.linkedin.com/pulse/les-param%C3%A8tres-en-c-simon-bertho/)
+* [C++11: auto and decltype keywords](https://www.linkedin.com/pulse/c11-les-mots-clefs-auto-et-decltype-simon-bertho/)
