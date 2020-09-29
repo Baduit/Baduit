@@ -15,3 +15,4 @@ Also I did some little stuff in C# (with Unity) or in rust but I can't really sa
 # My articles (in french)
 * [C++: best ways to pass parameters](https://www.linkedin.com/pulse/les-param%C3%A8tres-en-c-simon-bertho/)
 * [C++11: auto and decltype keywords](https://www.linkedin.com/pulse/c11-les-mots-clefs-auto-et-decltype-simon-bertho/)
+* [Enumérations : ce qui change avec C++11](https://gist.github.com/Baduit/12767e12593554f7b4b7015beea2dfd6)
