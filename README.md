@@ -13,6 +13,6 @@ Also I did some little stuff in C# (with Unity) or in rust but I can't really sa
 * [Timer](https://github.com/Baduit/Timer): A little C++ header-only library to manage timers in C++. The standard library has a great way to manage time since C++11 that offers a lot of possibilities but for simple use there is a lot of boiler plate code, this library fix that.
 
 # My articles (in french)
-* [C++: best ways to pass parameters](https://www.linkedin.com/pulse/les-param%C3%A8tres-en-c-simon-bertho/)
-* [C++11: auto and decltype keywords](https://www.linkedin.com/pulse/c11-les-mots-clefs-auto-et-decltype-simon-bertho/)
-* [Enumérations : ce qui change avec C++11](https://gist.github.com/Baduit/12767e12593554f7b4b7015beea2dfd6)
+* [C++ : best ways to pass parameters](https://www.linkedin.com/pulse/les-param%C3%A8tres-en-c-simon-bertho/)
+* [C++11 : auto and decltype keywords](https://www.linkedin.com/pulse/c11-les-mots-clefs-auto-et-decltype-simon-bertho/)
+* [C++11 : énumérations ce qui change](https://gist.github.com/Baduit/12767e12593554f7b4b7015beea2dfd6)
