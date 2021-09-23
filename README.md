@@ -10,7 +10,6 @@ Also I did some little stuff in C# or in rust but I can't really say I have any 
 # My favourite pet projects
 * [Aggreget](https://github.com/Baduit/Aggreget): A C++20 header-only library to achieve non-intrusive compile time reflection on aggregate types. This my favorite because it uses advanced and recent functionnalities of C++ ([concepts](https://en.cppreference.com/w/cpp/language/constraints), [structure binding](https://en.cppreference.com/w/cpp/language/structured_binding), [aggregate initialization](https://en.cppreference.com/w/cpp/language/aggregate_initialization), [type traits](https://en.cppreference.com/w/cpp/header/type_traits) and generic programming) but the code is still short and simple. Also writing this library was pretty straightforward.
 * [ScriptGUIfier](https://github.com/Baduit/ScriptGUIfier): a generator of GUI for scripts, it is written in python. I initially developped it to manage my script on my pet projects and I ended up using it at work because thanks to it, it is easier to use and share my scripts with my colleagues to make our work easier and more productive.
-* [Timer](https://github.com/Baduit/Timer): A little C++ header-only library to manage timers in C++. The standard library has a great way to manage time since C++11 that offers a lot of possibilities but for simple use there is a lot of boiler plate code, this library fix that.
 
 # My articles (in french)
 I have a blog made with Github pages and Jekyll: https://baduit.github.io/
