@@ -1,5 +1,5 @@
 # Who am I ?
-I'm a young french developper living in Nantes and working at [Elephant Technologies](https://www.elephant-technologies.fr/).
+I'm a young french developper living in Nantes and working at Ausy.
 
 My favourite programming langage is C++, well modern C++, because before C++11 a lot of things are really frustrating to do and when you have tried C++17, it is hard to use something older. Now that I have tasted C++20 I think I will never make any pet project in an older standard because it has so much new usefull features. 
 
