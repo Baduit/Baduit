@@ -5,7 +5,9 @@ My favourite programming langage is C++, well modern C++, because before C++11 a
 
 Sometimes I also like to make little projects in javascript (with node.js) or python but I'm not as fluent in these langages as I am in C++.
 
-Also I did some little stuff in C# or in rust but I can't really say I have any experience in these langages.
+Also I did some little stuff in C# but I can't really say I have experience in this langage.
+
+And now I'm currently leanring Rust and I love it!
 
 # My favourite pet projects
 * [Aggreget](https://github.com/Baduit/Aggreget): A C++20 header-only library to achieve non-intrusive compile time reflection on aggregate types. This my favorite because it uses advanced and recent functionnalities of C++ ([concepts](https://en.cppreference.com/w/cpp/language/constraints), [structure binding](https://en.cppreference.com/w/cpp/language/structured_binding), [aggregate initialization](https://en.cppreference.com/w/cpp/language/aggregate_initialization), [type traits](https://en.cppreference.com/w/cpp/header/type_traits) and generic programming) but the code is still short and simple. Also writing this library was pretty straightforward.
